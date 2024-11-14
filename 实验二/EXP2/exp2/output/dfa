@@ -1,0 +1,7 @@
+digraph {
+	"S0 S2 S4" [shape=circle]
+	"S0 S2 S4" -> "S1 S5" [label=a]
+	"S0 S2 S4" -> "S3 S5" [label=b]
+	"S1 S5" [shape=doublecircle]
+	"S3 S5" [shape=doublecircle]
+}

@@ -1,0 +1,5 @@
+a|b
+aba
+(a|b)*
+bb(a|b)*a
+(aa)*
